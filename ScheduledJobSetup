@@ -1,0 +1,3 @@
+"HandleDuppRecords","0 0 * ? * *","This job is used to handle dupp records"
+"PurgeAccountData","0 0 * ? * *","This is a puger job on the account"
+"SimpleJob","0 0 * ? * *","description"
