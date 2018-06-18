@@ -1,0 +1,3 @@
+"JobName","Cron","JobDescription"
+"CP_COM_MyDocumentScheduleBatchController","0 0 0 * * ?","DescriptionJob1"
+"scheduleServiceDocCleanUp","0 0 2 ? * *","DescriptionJob2"
